@@ -6,3 +6,4 @@ execise stage
 git track chagnes of files
 create a new branch is quick
 Creating a new branch is quick and simple.
+no forward merge
