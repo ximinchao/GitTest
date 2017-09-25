@@ -5,4 +5,4 @@ Git is free software distributed under the GPL.
 execise stage
 git track chagnes of files
 create a new branch is quick
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
