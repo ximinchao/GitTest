@@ -4,3 +4,4 @@ Git is new.
 Git is free software distributed under the GPL.
 execise stage
 git track chagnes of files
+create a new branch is quick
